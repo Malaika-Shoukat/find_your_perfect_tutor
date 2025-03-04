@@ -1,0 +1,377 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section1{
+    background-color: #fff;
+    color: black;
+    padding: 20px ;
+}
+.logo{
+    display: inline-block;
+    width: 18%;
+    padding: 5px 10px;
+    margin: 0px auto;
+    font-size: 30px;
+}
+.head{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    word-spacing: 30px;
+}
+.head a{
+    text-decoration: none;
+}
+.buttons{
+    display: inline-block;
+    width: 20%;
+    /* text-align: right;
+    margin-left: 20px; */
+}
+.section2{
+    background-color: orange;
+    color: black;
+   height: 20px;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+.but1{
+    padding-right: 60px;
+    /* font-weight: bolder; */
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background-color: white;
+}
+.but2{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(46, 76, 207);
+    color: white;
+    border: none;
+}
+.section3{
+    margin-top:40px ;
+}
+h1{
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+.paratop h1 .paramiddle{
+    padding-left: 20px;
+}
+.but3{
+    background-color: orange ;
+  display: inline-block;
+  padding:20px;
+  margin:10px;
+  border-radius: 25px;
+  border: none;
+}
+.but4{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius:50% ;
+  font-size: 30px;
+  background: rgb(161, 192, 202);
+}
+
+.leftsection{
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.rightsection{
+    display: inline-block;
+    width: 38%;  
+}
+.section4{
+    background-color: blue;
+    color: white;
+}
+.text1{
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+}
+.text2{
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+    
+}
+.text3{
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+    
+}
+.text4{
+    display: inline-block;
+    width: 23%;
+    padding: 20px;
+}
+.para1{
+    color: orange;
+    text-align: center;
+    padding: 10px;
+}
+.para2{
+    color: black;
+    text-align: center;
+    padding-bottom: 20px;
+font-size: 25px;
+}
+.second{
+    /* width:1000px ; */
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    text-align: center;
+  
+}
+.icon1{
+    display: inline-block;
+/* width: 30%; */
+border: 1px solid rgb(145, 139, 139);
+background-color: whitesmoke;
+
+}
+.icon2{
+    display: inline-block;
+    /* width: 20%; */
+    border: 1px solid gray;
+    background-color: whitesmoke;
+}
+.icon3{
+    display: inline-block;
+    /* width: 18%; */
+    border: 1px solid gray;
+    background-color: whitesmoke;
+}
+.icon4{
+    display: inline-block;
+    /* width: 30%; */
+    border: 1px solid gray;
+    background-color: whitesmoke;
+}
+.third{
+    padding-top: 50px;
+}
+.left2{
+    display: inline-block;
+    width: 38%;
+object-fit: cover;
+padding-left: 150px;
+
+}
+
+.right2{
+    display: inline-block;
+    width: 60%;
+    padding-left: 90px;
+    padding-top: 10px;
+    vertical-align: top;
+    
+}
+.para3{
+    color: orange;
+    font-size: larger;
+}
+.para4{
+    font-size: 20px;
+}
+.but5{
+    background-color: orange ;
+    display: inline-block;
+    padding:10px;
+    margin:10px;
+    border-radius: 25px;
+    border: none;
+  }
+  .left3{
+    display: inline-block;
+    width: 60%;
+    padding-left: 150px;
+    padding-top: 10px;
+    vertical-align: top;
+}
+  
+  .right3{
+    display: inline-block;
+    width: 38%;
+object-fit: cover;
+padding-left: 20px;
+  }
+  .section6{
+    padding-top: 50px;
+
+  }
+  .para5{
+    color: orange;
+    font-size: larger;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .para6{
+    color: black;
+    text-align: center;
+font-size: 25px;
+  }
+  .icons-first{
+text-align: center;
+margin: 20px;
+
+  }
+  .i1{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+   
+  }
+  .i2{
+    display: inline-block;
+    border: 1px solid gray ;
+    padding: 5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+  }
+  .i3{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+  }
+  .i4{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+  }
+  .icons-second{
+    text-align: center;
+    /* margin: 30px; */
+      }
+  .i5{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color:whitesmoke;
+    padding-right: 105px;
+  }
+  .i6{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 100px;
+    background-color:whitesmoke;
+  }
+  .i7{
+    display: inline-block;
+    border: 1px solid gray;
+    padding:5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+  }
+  .i8{
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 80px;
+    background-color:whitesmoke;
+  }
+
+  .eighth{
+    text-align: center;
+  }
+  .image1{
+    display: inline-block;
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+  
+   
+  }
+  .image2{
+    display: inline-block;
+    text-align: center;
+    height: 60px;
+   width: 60px;
+   border-radius: 50%;
+  border: 1px solid red;
+   
+
+  }
+  .image3{
+    display: inline-block;
+    /* text-align: center; */
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+   
+  }
+
+
+  .seventh{
+    text-align: center;
+  }
+  .ico1{
+    background-color: rgb(187, 187, 230);
+
+  }
+  .ico2{
+    background-color: rgb(193, 223, 168);
+
+  }
+  .ico3{
+    background-color: rgb(224, 179, 227);
+
+  }
+  .ico4{
+    background-color: rgb(186, 232, 173);
+
+  }
+  .ico5{
+    background-color: rgb(223, 197, 154);
+
+  }
+  .ico6{
+    background-color: rgb(178, 229, 238);
+
+  }
+  .ico7{
+    background-color: rgb(224, 210, 100);
+
+  }
+  .ico8{
+    background-color: rgb(228, 173, 211);
+
+  }
+  .ico9{
+    background-color: rgb(153, 203, 143);
+
+  }
+  .ico10{
+    background-color: rgb(192, 208, 225);
+
+  }
+  .ico11{
+    background-color: rgb(231, 142, 169);
+
+  }
+  .ico12{
+    background-color: rgb(226, 187, 45);
+
+  }
